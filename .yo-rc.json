@@ -1,0 +1,26 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "baseName": "pgwebsite",
+    "buildTool": "maven",
+    "cacheProvider": "ehcache",
+    "clientFramework": "angular",
+    "clientPackageManager": "npm",
+    "clientTheme": null,
+    "creationTimestamp": 1732090760304,
+    "databaseType": "sql",
+    "devServerPort": 4200,
+    "enableHibernateCache": false,
+    "enableTranslation": false,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "NmYzZDlhZDFhZDkyZTI0NTBkYzcyMGMxNzE1NDg0ZDRjY2U1N2ZlMmRjYjBjZjBkZmZkNWM5ODcxZTI5MDllNDFiYzJhMTc4ZTFlMzY1YzdhMDk2OGRhMWNjZDg4OGQwY2UyOTFiN2YxMjFhN2E4OGY4ZWQ4NzA2NTczMjIyODE=",
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": "eureka",
+    "testFrameworks": ["cypress"],
+    "websocket": null
+  }
+}
